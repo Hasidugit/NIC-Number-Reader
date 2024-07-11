@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hasidu\\source\\repos\\VP_LAB6_q1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5409E291-1F54-452B-9C1B-34D6F640CC38}|VP_LAB6_q1\\VP_LAB6_q1.csproj|c:\\users\\hasidu\\source\\repos\\vp_lab6_q1\\vp_lab6_q1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5409E291-1F54-452B-9C1B-34D6F640CC38}|VP_LAB6_q1\\VP_LAB6_q1.csproj|solutionrelative:vp_lab6_q1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5409E291-1F54-452B-9C1B-34D6F640CC38}|VP_LAB6_q1\\VP_LAB6_q1.csproj|C:\\Users\\Hasidu\\source\\repos\\VP_LAB6_q1\\vp_lab6_q1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5409E291-1F54-452B-9C1B-34D6F640CC38}|VP_LAB6_q1\\VP_LAB6_q1.csproj|solutionrelative:vp_lab6_q1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hasidu\\source\\repos\\VP_LAB6_q1\\VP_LAB6_q1\\Form1.cs",
+              "RelativeDocumentMoniker": "VP_LAB6_q1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hasidu\\source\\repos\\VP_LAB6_q1\\VP_LAB6_q1\\Form1.cs",
+              "RelativeToolTip": "VP_LAB6_q1\\Form1.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAowHUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:57:38.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hasidu\\source\\repos\\VP_LAB6_q1\\VP_LAB6_q1\\Form1.cs",
+              "RelativeDocumentMoniker": "VP_LAB6_q1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hasidu\\source\\repos\\VP_LAB6_q1\\VP_LAB6_q1\\Form1.cs [Design]",
+              "RelativeToolTip": "VP_LAB6_q1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:52:03.008Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
